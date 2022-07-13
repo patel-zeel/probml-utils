@@ -1,4 +1,1 @@
-jaxopt
-distrax
-TexSoup
-umap-learn
+numpy
